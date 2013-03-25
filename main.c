@@ -4,6 +4,6 @@
 int main(int argc,char *argv[])
 {
 	
-	printf("hello world\n");
+	printf("hello world merge\n");
 	return 0;
 }
